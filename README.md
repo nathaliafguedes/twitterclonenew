@@ -6,8 +6,7 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them.
 To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 Check out [LIVE DEMO here!!](https://nathalia-twitterclone.herokuapp.com/)
-# Screenshot
-![Screenshot 2022-02-09 at 11 42 35 AM]()
+
 # Tech used
 * Html
 * Css
